@@ -1,0 +1,105 @@
+@media (max-width: 991.98px) {
+
+}
+@media (max-width: 767.98px){
+
+}
+@media (max-width: 575.98px){
+    .banner_contant {
+        margin: 25px auto 0;
+        text-align: center;
+    }
+    .banner_contant h1 span {
+        color: #fbfdff;
+    }
+    .banner_contant h1 {
+        font-size: 40px;
+    }
+    .banner_contant h6 {
+        font-size: 16px;
+        margin: 15px 0;
+    }
+    .btn_custom {
+        padding: 12px 12px;
+    }
+    .banner_contant a {
+        font-size: 14px;
+    }
+    .contant {
+        margin-top: 15px;
+        text-align: center;
+    }
+    .contant h1 {
+        font-size: 40px;
+    }
+    .contant p {
+        margin-top: 15px;
+        padding: 0 40px;
+    }
+    .right_now h1 {
+        font-size: 35px;
+        padding: 50px 0 10px;
+    }
+    .right_img img {
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 40px;
+    }
+    .btn_customs {
+        padding: 13px 12px;
+        width: 45%;
+    }
+    .our_process a {
+        font-size: 14px;
+    }
+    .our_process_card {
+        margin-top: 80px;
+    }
+    .our_process h1 {
+        margin-bottom: 25px;
+        font-size: 40px;
+    }
+    .our_service h1 {
+        font-size: 40px;
+        margin: 35px 0;
+    }
+    .service_icon{
+        background-size: 15%;
+    }
+    .service_icon i {
+        font-size: 45px;
+    }
+    .service_iteam {
+        margin: 45px auto 0;
+        width: 90%;
+    }
+    .service_btn a{
+        font-size: 14px;
+    }
+    .btn_custom_service {
+        padding: 13px 12px;
+        width: 45%;
+    }
+    .asked_question h1 {
+        font-size: 40px;
+    }
+    .footer_section{
+        padding-top: 20px;
+    }
+    .footer_contant h1{
+        font-size: 40px;
+        text-align: center;
+        line-height: 50px;
+    }
+    .footer_contant h6 {
+        font-size: 15px;
+        margin: 15px 0;
+        text-align: center;
+    }
+    .footer_contant a {
+        font-size: 15px;
+        display: inline-block;
+        margin: 0 0 0 120px;
+    }
+
+}
